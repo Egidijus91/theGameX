@@ -10,6 +10,11 @@ public class FirstCode : MonoBehaviour
         // lalala
         Debug.Log("Buongiorno"); // pasisveik
         Debug.Log("Redaguoju");
+        Debug.Log ("bbz");
+                Debug.Log ("123");
+
+        
+
     }
 
     // Update is called once per frame
