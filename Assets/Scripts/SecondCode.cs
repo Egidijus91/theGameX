@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FirstCode : MonoBehaviour
+public class SecondCode : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        // lalala
-        Debug.Log("Buongiorno"); // pasisveik
-        Debug.Log("Redaguoju");
+        // "This is a second code"
     }
 
     // Update is called once per frame
